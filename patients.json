@@ -1,0 +1,47 @@
+[
+  {
+    "createdAt": "2024-03-06T13:17:08.718Z",
+    "firstname": "Jane",
+    "middlename": "",
+    "lastname": "Medlock",
+    "dob": "1987-02-14",
+    "gender": "F",
+    "addrline1": "7 Woodlands Way",
+    "addrline2": "",
+    "city": "Abington",
+    "state": "MA",
+    "zip": "02351",
+    "externalPatientId": "PAT0001",
+    "id": "1"
+  },
+  {
+    "createdAt": "2024-03-06T13:52:35.954Z",
+    "firstname": "Garett",
+    "middlename": "Micah",
+    "lastname": "Weissnat",
+    "dob": "1998-11-24",
+    "gender": "M",
+    "addrline1": "080 Reynolds Centers",
+    "addrline2": "addrline2 2",
+    "city": "Port Catharine",
+    "state": "Pennsylvania",
+    "zip": "44921-9756",
+    "externalPatientId": "ebe52bd8-c80d-435a-90b8-a3ca4b5f6f65",
+    "id": "2"
+  },
+  {
+    "createdAt": "2024-03-06T13:33:10.597Z",
+    "firstname": "Letitia",
+    "middlename": "Ellis",
+    "lastname": "Bradtke",
+    "dob": "1992-09-29",
+    "gender": "F",
+    "addrline1": "78818 Fay Pass",
+    "addrline2": "addrline2 3",
+    "city": "West Karinechester",
+    "state": "Oklahoma",
+    "zip": "60152-7435",
+    "externalPatientId": "08bfd0d7-d2cd-453f-9a09-7781c2b2439d",
+    "id": "3"
+  }
+]
