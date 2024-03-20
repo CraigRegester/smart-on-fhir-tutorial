@@ -1874,7 +1874,7 @@
 							<id assigningAuthorityName="1000005-PlacerId" extension="59BC92A4-BC65-11EE-ALB1-1250A5D0D12Ba" root="1000005"/>
 							<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 								<originalText>
-									<reference value="#rsltTestDesc-1"/>
+									<reference value="Albumin [Mass/volume] in Serum or Plasma"/>
 								</originalText>
 							</code>
 							<statusCode code="completed"/>
@@ -1968,7 +1968,7 @@
 									<id assigningAuthorityName="1000005-PlacerId" extension="59BC92A4-BC65-11EE-ALB1-1250A5D0D12B" root="1000005"/>
 									<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 										<originalText>
-											<reference value="#rsltTestDesc-1"/>
+											<reference value="Albumin [Mass/volume] in Serum or Plasma"/>
 										</originalText>
 										<translation code="1751-7" codeSystem="1.2.840.114350.1.13.0.1.7.2.696580" codeSystemName="1.2.840.114350.1.13.0.1.7.2.696580" displayName="Albumin [Mass/volume] in Serum or Plasma"/>
 									</code>
@@ -2149,7 +2149,7 @@
 							<id assigningAuthorityName="1000006-PlacerId" extension="59BC92A4-BC65-11EE-ALB2-1250A5D0D12Ba" root="1000006"/>
 							<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 								<originalText>
-									<reference value="#rsltTestDesc-1"/>
+									<reference value="Albumin [Mass/volume] in Serum or Plasma"/>
 								</originalText>
 							</code>
 							<statusCode code="completed"/>
@@ -2243,7 +2243,7 @@
 									<id assigningAuthorityName="1000006-PlacerId" extension="59BC92A4-BC65-11EE-ALB2-1250A5D0D12B" root="1000006"/>
 									<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 										<originalText>
-											<reference value="#rsltTestDesc-1"/>
+											<reference value="Albumin [Mass/volume] in Serum or Plasma"/>
 										</originalText>
 										<translation code="1751-7" codeSystem="1.2.840.114350.1.13.0.1.7.2.696580" codeSystemName="1.2.840.114350.1.13.0.1.7.2.696580" displayName="Albumin [Mass/volume] in Serum or Plasma"/>
 									</code>
@@ -2424,7 +2424,7 @@
 							<id assigningAuthorityName="1000007-PlacerId" extension="59BC92A4-BC65-11EE-ALB3-1250A5D0D12Ba" root="1000007"/>
 							<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 								<originalText>
-									<reference value="#rsltTestDesc-1"/>
+									<reference value="Albumin [Mass/volume] in Serum or Plasma"/>
 								</originalText>
 							</code>
 							<statusCode code="completed"/>
@@ -2518,7 +2518,7 @@
 									<id assigningAuthorityName="1000007-PlacerId" extension="59BC92A4-BC65-11EE-ALB3-1250A5D0D12B" root="1000007"/>
 									<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 										<originalText>
-											<reference value="#rsltTestDesc-1"/>
+											<reference value="Albumin [Mass/volume] in Serum or Plasma"/>
 										</originalText>
 										<translation code="1751-7" codeSystem="1.2.840.114350.1.13.0.1.7.2.696580" codeSystemName="1.2.840.114350.1.13.0.1.7.2.696580" displayName="Albumin [Mass/volume] in Serum or Plasma"/>
 									</code>
