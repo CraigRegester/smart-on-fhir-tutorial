@@ -1953,8 +1953,8 @@
 							</informant>
 							<component>
 								<procedure classCode="PROC" moodCode="EVN">
-									<id assigningAuthorityName="1000004-PlacerId" extension="59BC92A4-BC65-11EE-B627-1250A5D0D12B" root="1000004"/>
-									<code code="2093-3" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Cholesterol, total">
+									<id assigningAuthorityName="1000004-PlacerId" extension="59BC92A4-BC65-11EE-ALB1-1250A5D0D12B" root="1000004"/>
+									<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 										<originalText>
 											<reference value="#rsltTestDesc-1"/>
 										</originalText>
@@ -1995,7 +1995,7 @@
 									</text>
 									<statusCode code="completed"/>
 									<effectiveTime value="20190528160600"/>
-									<value unit="mg/dL" value="187" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PQ"/>
+									<value unit="g/dL" value="3.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PQ"/>
 									<performer typeCode="PRF">
 										<time nullFlavor="UNK"/>
 										<assignedEntity>
@@ -2043,8 +2043,8 @@
 									<referenceRange typeCode="REFV">
 										<observationRange classCode="OBS" moodCode="EVN.CRT">
 											<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IVL_PQ">
-												<low nullFlavor="UNK"/>
-												<high unit="g/dL" value="4.5"/>
+												<low unit="g/dL" value="3.4"/>
+												<high unit="g/dL" value="5.4"/>
 											</value>
 										</observationRange>
 									</referenceRange>
@@ -2204,8 +2204,8 @@
 							</informant>
 							<component>
 								<procedure classCode="PROC" moodCode="EVN">
-									<id assigningAuthorityName="1000004-PlacerId" extension="59BC92A4-BC65-11EE-B627-1250A5D0D12B" root="1000004"/>
-									<code code="ALB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin">
+									<id assigningAuthorityName="1000004-PlacerId" extension="59BC92A4-BC65-11EE-ALB2-1250A5D0D12B" root="1000004"/>
+									<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 										<originalText>
 											<reference value="#rsltTestDesc-1"/>
 										</originalText>
@@ -2246,7 +2246,7 @@
 									</text>
 									<statusCode code="completed"/>
 									<effectiveTime value="20190528160600"/>
-									<value unit="mg/dL" value="187" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PQ"/>
+									<value unit="g/dL" value="4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PQ"/>
 									<performer typeCode="PRF">
 										<time nullFlavor="UNK"/>
 										<assignedEntity>
@@ -2294,8 +2294,8 @@
 									<referenceRange typeCode="REFV">
 										<observationRange classCode="OBS" moodCode="EVN.CRT">
 											<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IVL_PQ">
-												<low nullFlavor="UNK"/>
-												<high unit="g/dL" value="3.9"/>
+												<low unit="g/dL" value="3.4"/>
+												<high unit="g/dL" value="5.4"/>
 											</value>
 										</observationRange>
 									</referenceRange>
@@ -2455,8 +2455,8 @@
 							</informant>
 							<component>
 								<procedure classCode="PROC" moodCode="EVN">
-									<id assigningAuthorityName="1000004-PlacerId" extension="59BC92A4-BC65-11EE-B627-1250A5D0D12B" root="1000004"/>
-									<code code="ALB" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin">
+									<id assigningAuthorityName="1000004-PlacerId" extension="59BC92A4-BC65-11EE-ALB3-1250A5D0D12B" root="1000004"/>
+									<code code="1751-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LN" displayName="Albumin [Mass/volume] in Serum or Plasma">
 										<originalText>
 											<reference value="#rsltTestDesc-1"/>
 										</originalText>
@@ -2497,7 +2497,7 @@
 									</text>
 									<statusCode code="completed"/>
 									<effectiveTime value="20190528160600"/>
-									<value unit="mg/dL" value="187" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PQ"/>
+									<value unit="g/dL" value="3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PQ"/>
 									<performer typeCode="PRF">
 										<time nullFlavor="UNK"/>
 										<assignedEntity>
@@ -2545,8 +2545,8 @@
 									<referenceRange typeCode="REFV">
 										<observationRange classCode="OBS" moodCode="EVN.CRT">
 											<value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IVL_PQ">
-												<low nullFlavor="UNK"/>
-												<high unit="g/dL" value="4.1"/>
+												<low unit="g/dL" value="3.4"/>
+												<high unit="g/dL" value="5.4"/>
 											</value>
 										</observationRange>
 									</referenceRange>
